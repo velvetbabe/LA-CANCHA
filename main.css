@@ -1,0 +1,66 @@
+#cesped{
+
+       background-color:#3DA751;
+       height:400px;
+       width:600px;
+       padding:40px;
+       margin:auto;
+       
+
+}
+
+.whitebox{
+
+	   background-color:#3DA751;
+       height:310px;
+       width:500px;
+       margin:auto;
+       padding:40px;
+       border:2px solid white;
+
+
+}     
+
+
+#leftgarden{
+
+	   background-color:#3DA751;
+	   height:70px;
+	   width:30px;
+	   margin:-42px;
+	   padding:30px;
+	   border:2px solid white;
+	   float:left;
+	   position:relative;
+	   bottom:-120px;
+	       }
+
+
+#centerball{
+
+	   background-color:#3DA751;
+	   height:60px;
+	   width:60px;
+	   margin:50px;
+	   margin-left:40px;
+	   margin-right:-40px;
+	   padding:40px;
+	   border-radius:500px;
+	   border:2px solid white;
+	   float:left;
+	   position:relative;
+          }
+
+#rightgarden{
+
+       background-color:#3DA751;
+	   height:70px;
+	   width:30px;
+	   margin:-42px;
+	   padding:30px;
+	   border:2px solid white;
+	   float:right;
+	   position:relative;
+	   bottom:-120px;
+       
+           }

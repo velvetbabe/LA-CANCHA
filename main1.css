@@ -1,0 +1,102 @@
+#cesped{
+
+       background-color:#3DA751;
+       height:400px;
+       width:600px;
+       padding:40px;
+       margin:auto;
+       
+
+}
+
+.whitebox{
+
+	   background-color:#3DA751;
+       height:310px;
+       width:500px;
+       margin:auto;
+       padding:40px;
+       border:2px solid white;
+
+
+}     
+
+
+#leftgarden{
+
+	   background-color:#3DA751;
+	   height:70px;
+	   width:30px;
+	   margin:-42px;
+	   padding:30px;
+	   border:2px solid white;
+	   float:left;
+	   position:relative;
+	   bottom:-120px;
+	       }
+
+
+#centerball{
+
+	   background-color:#3DA751;
+	   height:60px;
+	   width:60px;
+	   margin:75px;
+	   margin-left:170px;
+	   margin-right:-180px;
+	   padding:40px;
+	   border-radius:500px;
+	   border:2px solid white;
+	   float:left;
+	   position:relative;
+          }
+
+#rightgarden{
+
+       background-color:#3DA751;
+	   height:70px;
+	   width:30px;
+	   margin:-42px;
+	   padding:30px;
+	   border:2px solid white;
+	   float:right;
+	   position:relative;
+	   bottom:-120px;
+       
+           }
+
+.bola1{
+	   
+       margin:20px;
+       position:relative;
+	   float:left;
+	   bottom:70px;
+	   left:30px;
+	   top:-50px;
+
+
+}
+
+
+.bola2{
+       
+       margin:40px;
+       position:relative;
+       bottom:40px;
+       right:100px;
+       top:35px;
+
+}
+
+
+.bola3{
+       
+       margin:40px;
+       position:relative;
+       bottom:40px;
+       left:-5px;
+       top:-145px;
+       right:20px;
+
+
+}
